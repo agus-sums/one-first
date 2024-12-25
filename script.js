@@ -304,7 +304,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "https://drive.google.com/file/d/1ORKd93ryQnfRXLRSTHNGt6930Zofd3nt/preview" allow="autoplay");
+  ifrm.setAttribute("src", "https://drive.google.com/file/d/1ORKd93ryQnfRXLRSTHNGt6930Zofd3nt/preview");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
